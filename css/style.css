@@ -776,6 +776,53 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #18d26e;
 }
 
+/* Products 
+--------------------------------*/
+#products {
+  background: #fff;
+  background-size: cover;
+  padding: 60px 0 40px 0;
+}
+
+#products .box {
+  margin-bottom: 30px;
+}
+
+#products .icon {
+  float: left;
+}
+
+#products .icon i {
+  color: #18d26e;
+  font-size: 36px;
+  line-height: 1;
+  transition: 0.5s;
+}
+
+#products .title {
+  margin-left: 60px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+#products .title a {
+  color: #111;
+}
+
+#products .box:hover .title a {
+  color: #18d26e;
+}
+
+#products .description {
+  font-size: 14px;
+  margin-left: 60px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
+
+
+
 /* Call To Action Section
 --------------------------------*/
 #skills {
