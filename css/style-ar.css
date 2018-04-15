@@ -433,6 +433,10 @@ h1, h2, h3, h4, h5, h6 {
   #mobile-nav-toggle {
     display: inline;
   }
+
+  #mobile-nav-toggle i {
+      color: #333;
+  }
 }
 
 /* Mobile Nav Styling */
